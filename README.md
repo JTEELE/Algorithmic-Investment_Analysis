@@ -8,6 +8,13 @@
 
 #
 
+Getting Started:
+
+```bash
+conda env create --file algo.yml
+```
+
+#
 >### Overview: 
 >> Using the S&P 500 as a benchmark, this script will *Calculate* & *Evaluate* Algorithmic trading returns vs. traditional  investing.
 
@@ -31,11 +38,9 @@ Algorithmic trading is the purchase or sale of stocks and other types of investm
 #
 
 ## Resources:
-1. Northwestern NPS:
-https://sps.northwestern.edu/
 
-2. Algorithmic Factor Investing (Medium):
+1. Algorithmic Factor Investing (Medium):
 https://medium.com/@matthewwang_91639/algorithmic-factor-investing-with-market-regime-classification-6bc2f8c7168b
 
-3. Algorithmic Factor Investing (Medium):
+2. Algorithmic Factor Investing (Medium):
 https://www.gobankingrates.com/investing/strategy/algorithmic-trading/#:~:text=What%20Is%20Algorithmic%20Trading%3F%20Algorithmic%20trading%20is%20the,with%20instructions%20to%20buy%20or%20sell%20an%20asset.
